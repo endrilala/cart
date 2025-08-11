@@ -1,0 +1,15 @@
+language: php
+php:
+  - 5.5
+  - 5.6
+  - 7.0
+  - 7.1
+  - nightly
+  - hhvm
+
+before_script:
+  - composer install
+
+addons:
+  code_climate:
+    repo_token: f6befd40c553f35a1eb0d221c94210d2be598ff677bb0bb878f967c26a4a979f
