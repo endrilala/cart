@@ -1,8 +1,8 @@
 <?php
 
-namespace Maldoinc\Cart;
+namespace InfosoftSD\Cart;
 
-use Maldoinc\Cart\Exception\InvalidCartFeeValueException;
+use InfosoftSD\Cart\Exception\InvalidCartFeeValueException;
 
 class CartFee
 {
@@ -38,7 +38,7 @@ class CartFee
      * CartSubtotalLine constructor.
      * @param $description
      * @param $value
-     * @throws \Maldoinc\Cart\Exception\InvalidCartFeeValueException
+     * @throws \InfosoftSD\Cart\Exception\InvalidCartFeeValueException
      */
     public function __construct($description, $value)
     {
@@ -72,7 +72,7 @@ class CartFee
 
     /**
      * @param float|int $value
-     * @throws \Maldoinc\Cart\Exception\InvalidCartFeeValueException
+     * @throws \InfosoftSD\Cart\Exception\InvalidCartFeeValueException
      */
     public function setValue($value)
     {

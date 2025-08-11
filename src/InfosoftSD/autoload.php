@@ -1,6 +1,6 @@
 <?php
 
-namespace Maldoinc;
+namespace InfosoftSD;
 
 // see: https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-4-autoloader-examples.md
 spl_autoload_register(function ($class) {

@@ -1,11 +1,11 @@
 <?php
 
-namespace Maldoinc\Cart;
+namespace InfosoftSD\Cart;
 
 use Doctrine\Common\Collections\ArrayCollection;
-use Maldoinc\Cart\Contract\CartPersistentInterface;
-use Maldoinc\Cart\Exception\ItemNotFoundException;
-use Maldoinc\Cart\Persistence\NullPersistenceStrategy;
+use InfosoftSD\Cart\Contract\CartPersistentInterface;
+use InfosoftSD\Cart\Exception\ItemNotFoundException;
+use InfosoftSD\Cart\Persistence\NullPersistenceStrategy;
 
 class Cart
 {

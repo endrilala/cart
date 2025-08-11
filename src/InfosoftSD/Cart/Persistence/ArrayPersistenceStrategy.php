@@ -1,8 +1,8 @@
 <?php
 
-namespace Maldoinc\Cart\Persistence;
+namespace InfosoftSD\Cart\Persistence;
 
-use Maldoinc\Cart\Contract\CartPersistentInterface;
+use InfosoftSD\Cart\Contract\CartPersistentInterface;
 
 class ArrayPersistenceStrategy implements CartPersistentInterface
 {

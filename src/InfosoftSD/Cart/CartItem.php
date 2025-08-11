@@ -1,6 +1,6 @@
 <?php
 
-namespace Maldoinc\Cart;
+namespace InfosoftSD\Cart;
 
 class CartItem
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Maldoinc\Cart\Contract;
+namespace InfosoftSD\Cart\Contract;
 
 /**
  * Allows persisting shopping the ShoppingCart class.
@@ -10,7 +10,7 @@ namespace Maldoinc\Cart\Contract;
  * the interface to decide how to do it.
  *
  * Interface ShoppingCartPersistentInterface
- * @package Maldoinc\Cart
+ * @package InfosoftSD\Cart
  */
 interface CartPersistentInterface
 {

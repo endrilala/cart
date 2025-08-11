@@ -1,6 +1,6 @@
 <?php
 
-namespace Maldoinc\Cart\Exception;
+namespace InfosoftSD\Cart\Exception;
 
 class ItemNotFoundException extends \Exception
 {

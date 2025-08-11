@@ -1,6 +1,6 @@
 <?php
 
-namespace Maldoinc\Cart;
+namespace InfosoftSD\Cart;
 
 class CartSummary
 {
@@ -32,7 +32,7 @@ class CartSummary
 
     /**
      * @param CartFee[] $fees
-     * @throws \Maldoinc\Cart\Exception\InvalidCartFeeValueException
+     * @throws \InfosoftSD\Cart\Exception\InvalidCartFeeValueException
      */
     protected function applyCartFees($fees)
     {
