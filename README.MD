@@ -2,15 +2,15 @@
 
 Framework independent cart abstraction library.
 
-![Travis](https://api.travis-ci.org/maldoinc/cart.svg?branch=master)
-![CodeClimate](https://codeclimate.com/github/maldoinc/cart/badges/gpa.svg)
-![Test Coverage](https://codeclimate.com/github/maldoinc/cart/badges/coverage.svg)
+![Travis](https://api.travis-ci.org/endrilala/cart.svg?branch=master)
+![CodeClimate](https://codeclimate.com/github/endrilala/cart/badges/gpa.svg)
+![Test Coverage](https://codeclimate.com/github/endrilala/cart/badges/coverage.svg)
 
 ## Installation
 
-Install the package through composer by running `composer require maldoinc/cart`.
+Install the package through composer by running `composer require endrilala/cart`.
 
-Otherwise just include the `Maldoinc\Cart` folder in your project and `require 'Maldoinc/Cart/autoload.php'`
+Otherwise just include the `endrilala\Cart` folder in your project and `require 'endrilala/Cart/autoload.php'`
 
 ## Usage
 

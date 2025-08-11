@@ -1,8 +1,8 @@
 <?php
 
-use Maldoinc\Cart\Cart;
-use Maldoinc\Cart\CartFee;
-use Maldoinc\Cart\CartItem;
+use endrilala\Cart\Cart;
+use endrilala\Cart\CartFee;
+use endrilala\Cart\CartItem;
 
 class CartTest extends PHPUnit_Framework_TestCase
 {
@@ -71,7 +71,7 @@ class CartTest extends PHPUnit_Framework_TestCase
     }
 
     /**
-     * @expectedException \Maldoinc\Cart\Exception\ItemNotFoundException
+     * @expectedException \endrilala\Cart\Exception\ItemNotFoundException
      */
     public function testGetNonExistingItem()
     {

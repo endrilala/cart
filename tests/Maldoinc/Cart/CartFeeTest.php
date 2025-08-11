@@ -1,6 +1,6 @@
 <?php
 
-namespace Maldoinc\Cart;
+namespace endrilala\Cart;
 
 class CartFeeTest extends \PHPUnit_Framework_TestCase
 {
@@ -36,7 +36,7 @@ class CartFeeTest extends \PHPUnit_Framework_TestCase
 
     /**
      * @dataProvider isPercentValueErrorDataProvider
-     * @expectedException \Maldoinc\Cart\Exception\InvalidCartFeeValueException
+     * @expectedException \endrilala\Cart\Exception\InvalidCartFeeValueException
      * @param $name
      * @param $value
      */

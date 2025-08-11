@@ -1,8 +1,8 @@
 <?php
 
-use Maldoinc\Cart\Cart;
-use Maldoinc\Cart\CartFee;
-use Maldoinc\Cart\CartItem;
+use endrilala\Cart\Cart;
+use endrilala\Cart\CartFee;
+use endrilala\Cart\CartItem;
 
 class CartSummaryTest extends PHPUnit_Framework_TestCase
 {

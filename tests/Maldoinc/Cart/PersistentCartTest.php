@@ -1,11 +1,11 @@
 <?php
 
 use Doctrine\Common\Collections\ArrayCollection;
-use Maldoinc\Cart\Cart;
-use Maldoinc\Cart\CartFee;
-use Maldoinc\Cart\CartItem;
-use Maldoinc\Cart\Persistence\ArrayPersistenceStrategy;
-use Maldoinc\Cart\Persistence\FilePersistenceStrategy;
+use endrilala\Cart\Cart;
+use endrilala\Cart\CartFee;
+use endrilala\Cart\CartItem;
+use endrilala\Cart\Persistence\ArrayPersistenceStrategy;
+use endrilala\Cart\Persistence\FilePersistenceStrategy;
 
 class PersistentShoppingCartTest extends PHPUnit_Framework_TestCase
 {

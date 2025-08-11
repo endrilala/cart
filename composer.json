@@ -1,17 +1,17 @@
 {
-    "name": "maldoinc/cart",
+    "name": "endrilala/cart",
     "description": "Shopping cart classes",
     "keywords": [
         "shopping",
         "cart",
         "invoice"
     ],
-    "homepage": "https://github.com/maldoinc/cart",
+    "homepage": "https://github.com/endrilala/cart",
     "license": "MIT",
     "authors": [
         {
-            "name": "Emirald Mateli",
-            "email": "aldo.mateli@gmail.com"
+            "name": "xxx",
+            "email": "endrilala@gmail.com"
         }
     ],
     "require": {
@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Maldoinc\\": "src/Maldoinc"
+            "endrilala\\": "src/endrilala"
         }
     }
 }

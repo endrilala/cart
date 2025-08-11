@@ -1,6 +1,6 @@
 <?php
 
-use Maldoinc\Cart\PriceDetails;
+use endrilala\Cart\PriceDetails;
 
 class PriceCalculatorTest extends PHPUnit_Framework_TestCase
 {

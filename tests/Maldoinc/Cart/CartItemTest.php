@@ -1,6 +1,6 @@
 <?php
 
-use Maldoinc\Cart\CartItem;
+use endrilala\Cart\CartItem;
 
 class CartItemTest extends PHPUnit_Framework_TestCase
 {
