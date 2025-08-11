@@ -1,11 +1,11 @@
 <?php
 
-namespace InfosoftSD\Cart;
+namespace endrilala\Cart;
 
 use Doctrine\Common\Collections\ArrayCollection;
-use InfosoftSD\Cart\Contract\CartPersistentInterface;
-use InfosoftSD\Cart\Exception\ItemNotFoundException;
-use InfosoftSD\Cart\Persistence\NullPersistenceStrategy;
+use endrilala\Cart\Contract\CartPersistentInterface;
+use endrilala\Cart\Exception\ItemNotFoundException;
+use endrilala\Cart\Persistence\NullPersistenceStrategy;
 
 class Cart
 {

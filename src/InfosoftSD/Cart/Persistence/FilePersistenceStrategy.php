@@ -1,8 +1,8 @@
 <?php
 
-namespace InfosoftSD\Cart\Persistence;
+namespace endrilala\Cart\Persistence;
 
-use InfosoftSD\Cart\Contract\CartPersistentInterface;
+use endrilala\Cart\Contract\CartPersistentInterface;
 
 class FilePersistenceStrategy implements CartPersistentInterface
 {

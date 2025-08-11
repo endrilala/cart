@@ -1,6 +1,6 @@
 <?php
 
-namespace InfosoftSD\Cart\Exception;
+namespace endrilala\Cart\Exception;
 
 class ItemNotFoundException extends \Exception
 {

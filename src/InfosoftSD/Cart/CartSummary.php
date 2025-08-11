@@ -1,6 +1,6 @@
 <?php
 
-namespace InfosoftSD\Cart;
+namespace endrilala\Cart;
 
 class CartSummary
 {
@@ -32,7 +32,7 @@ class CartSummary
 
     /**
      * @param CartFee[] $fees
-     * @throws \InfosoftSD\Cart\Exception\InvalidCartFeeValueException
+     * @throws \endrilala\Cart\Exception\InvalidCartFeeValueException
      */
     protected function applyCartFees($fees)
     {

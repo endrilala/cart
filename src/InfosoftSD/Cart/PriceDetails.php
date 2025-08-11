@@ -1,6 +1,6 @@
 <?php
 
-namespace InfosoftSD\Cart;
+namespace endrilala\Cart;
 
 class PriceDetails
 {
